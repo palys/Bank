@@ -1,0 +1,29 @@
+package bank;
+
+import Bank.IncorrectData;
+import Bank.NoSuchAccount;
+import Bank.PersonalData;
+import Bank.RequestRejected;
+import Bank._BankManagerDisp;
+import Bank.accountType;
+import Ice.Current;
+import Ice.StringHolder;
+
+public class BankManagerI extends _BankManagerDisp {
+
+	@Override
+	public void createAccount(PersonalData data, accountType type,
+			StringHolder accountID, Current __current) throws IncorrectData,
+			RequestRejected {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void removeAccount(String accountID, Current __current)
+			throws IncorrectData, NoSuchAccount {
+		// TODO Auto-generated method stub
+
+	}
+
+}

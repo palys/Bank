@@ -1,0 +1,31 @@
+package bank;
+
+import Ice.Current;
+import Ice.LocalObjectHolder;
+import Ice.Object;
+import Ice.ServantLocator;
+import Ice.UserException;
+
+public class BankManagerLocator implements ServantLocator {
+
+	@Override
+	public Object locate(Current curr, LocalObjectHolder cookie)
+			throws UserException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void finished(Current curr, Object servant, java.lang.Object cookie)
+			throws UserException {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void deactivate(String category) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

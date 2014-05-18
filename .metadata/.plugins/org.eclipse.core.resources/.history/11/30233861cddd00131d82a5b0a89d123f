@@ -1,0 +1,8 @@
+package bank;
+
+public class Server {
+	
+	public void t1(String[] args) {
+		
+	}
+}

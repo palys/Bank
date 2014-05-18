@@ -1,0 +1,17 @@
+package bank;
+
+public class Persistence {
+	
+	private void initialize() {
+		
+	}
+	
+	private boolean isInitialized() {
+		
+		return false;
+	}
+	
+	List<AccountI> getSilverAccounts() {
+		return null
+	}
+}

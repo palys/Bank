@@ -1,0 +1,1194 @@
+!SESSION 2014-05-17 14:43:10.628 -----------------------------------------------
+eclipse.buildId=4.3.0.5fc19
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 14:56:41.012
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-05-17 14:56:41.012
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-05-17 14:56:41.012
+!MESSAGE "Slice2Java Eclipse Plugin" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 14:56:41.015
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-05-17 14:56:41.015
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-05-17 14:56:41.015
+!MESSAGE "Slice2Java Eclipse Plugin" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 14:56:41.051
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-05-17 14:56:41.051
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-05-17 14:56:41.051
+!MESSAGE "Slice2Java Eclipse Plugin" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 14:56:41.051
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-05-17 14:56:41.051
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-05-17 14:56:41.052
+!MESSAGE "Slice2Java Eclipse Plugin" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 14:58:19.432
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-05-17 14:58:19.432
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-05-17 14:58:19.432
+!MESSAGE "Slice2Java Eclipse Plugin" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 14:58:19.433
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-05-17 14:58:19.433
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-05-17 14:58:19.433
+!MESSAGE "Slice2Java Eclipse Plugin" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 14:58:19.470
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-05-17 14:58:19.470
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-05-17 14:58:19.470
+!MESSAGE "Slice2Java Eclipse Plugin" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 14:58:19.470
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-05-17 14:58:19.470
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-05-17 14:58:19.470
+!MESSAGE "Slice2Java Eclipse Plugin" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 14:58:37.973
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10011 2014-05-17 14:58:37.973
+!MESSAGE "Object Teams Patch for JDT/Core" is not applicable to the current configuration and will not be installed.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 14:58:37.974
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10011 2014-05-17 14:58:37.974
+!MESSAGE "Object Teams Patch for JDT/Core" is not applicable to the current configuration and will not be installed.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:00:28.944
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-05-17 15:00:28.944
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-05-17 15:00:28.944
+!MESSAGE "Slice2Java Eclipse Plugin" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:00:28.945
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-05-17 15:00:28.945
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-05-17 15:00:28.945
+!MESSAGE "Slice2Java Eclipse Plugin" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:00:28.980
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-05-17 15:00:28.980
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-05-17 15:00:28.980
+!MESSAGE "Slice2Java Eclipse Plugin" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:00:28.981
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-05-17 15:00:28.981
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-05-17 15:00:28.981
+!MESSAGE "Slice2Java Eclipse Plugin" will be ignored because a newer version is already installed. 
+!SESSION 2014-05-17 15:06:37.444 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.ui 4 4 2014-05-17 15:07:05.673
+!MESSAGE Unable to find Action Set: org.eclipse.rse.core.search.searchActionSet
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:08:04.149
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-05-17 15:08:04.149
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.149
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.149
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:08:04.149
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.149
+!MESSAGE Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.jar 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.149
+!MESSAGE Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.jar 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:08:04.149
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.149
+!MESSAGE From: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.149
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.4.2.201110190043]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:08:04.149
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.149
+!MESSAGE From: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.149
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.5.1.20131004]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:08:04.154
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-05-17 15:08:04.154
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.154
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.154
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:08:04.154
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.154
+!MESSAGE Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.jar 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.154
+!MESSAGE Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.jar 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:08:04.154
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.154
+!MESSAGE From: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.154
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.4.2.201110190043]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:08:04.154
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.154
+!MESSAGE From: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.154
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.5.1.20131004]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:08:04.160
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-05-17 15:08:04.160
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.160
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.160
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:08:04.160
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.161
+!MESSAGE Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.jar 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.161
+!MESSAGE Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.jar 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:08:04.161
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.161
+!MESSAGE From: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.161
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.4.2.201110190043]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:08:04.161
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.161
+!MESSAGE From: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.161
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.5.1.20131004]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:08:04.161
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-05-17 15:08:04.161
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.161
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.161
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:08:04.161
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.161
+!MESSAGE Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.jar 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.161
+!MESSAGE Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.jar 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:08:04.161
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.161
+!MESSAGE From: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.161
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.4.2.201110190043]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:08:04.162
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.162
+!MESSAGE From: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:08:04.162
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.5.1.20131004]
+!SESSION 2014-05-17 15:11:26.717 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.ui 4 4 2014-05-17 15:11:37.224
+!MESSAGE Unable to find Action Set: org.eclipse.rse.core.search.searchActionSet
+
+!ENTRY org.eclipse.core.resources 4 2 2014-05-17 15:16:00.490
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: A resource already exists on disk '/home/tpalys/studia/sem6/rozprochy/eclipse/ice2-stud-2014/generated'.
+	at org.eclipse.core.internal.resources.Folder.assertCreateRequirements(Folder.java:47)
+	at org.eclipse.core.internal.resources.Folder.create(Folder.java:95)
+	at org.eclipse.core.internal.resources.Folder.create(Folder.java:125)
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder$BuildState.<init>(Slice2JavaBuilder.java:203)
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.build(Slice2JavaBuilder.java:82)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:733)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.core.resources 4 272 2014-05-17 15:16:00.491
+!MESSAGE A resource already exists on disk '/home/tpalys/studia/sem6/rozprochy/eclipse/ice2-stud-2014/generated'.
+!SUBENTRY 1 org.eclipse.core.resources 4 272 2014-05-17 15:16:00.491
+!MESSAGE A resource already exists on disk '/home/tpalys/studia/sem6/rozprochy/eclipse/ice2-stud-2014/generated'.
+
+!ENTRY org.eclipse.core.resources 4 75 2014-05-17 15:16:00.496
+!MESSAGE Errors occurred during the build.
+!SUBENTRY 1 com.zeroc.Slice2JavaPlugin 4 75 2014-05-17 15:16:00.496
+!MESSAGE Errors running builder 'Slice2Java Builder' on project 'ice2-stud-2014'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: A resource already exists on disk '/home/tpalys/studia/sem6/rozprochy/eclipse/ice2-stud-2014/generated'.
+	at org.eclipse.core.internal.resources.Folder.assertCreateRequirements(Folder.java:47)
+	at org.eclipse.core.internal.resources.Folder.create(Folder.java:95)
+	at org.eclipse.core.internal.resources.Folder.create(Folder.java:125)
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder$BuildState.<init>(Slice2JavaBuilder.java:203)
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.build(Slice2JavaBuilder.java:82)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:733)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 2 org.eclipse.core.resources 4 272 2014-05-17 15:16:00.496
+!MESSAGE A resource already exists on disk '/home/tpalys/studia/sem6/rozprochy/eclipse/ice2-stud-2014/generated'.
+!SUBENTRY 1 org.eclipse.core.resources 4 272 2014-05-17 15:16:00.496
+!MESSAGE A resource already exists on disk '/home/tpalys/studia/sem6/rozprochy/eclipse/ice2-stud-2014/generated'.
+
+!ENTRY org.eclipse.core.resources 4 2 2014-05-17 15:16:00.706
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 1
+org.eclipse.core.runtime.CoreException: Cannot locate slice2java translator: please fix Ice install location
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.build(Slice2JavaBuilder.java:350)
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.incrementalBuild(Slice2JavaBuilder.java:917)
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.build(Slice2JavaBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:733)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 com.zeroc.Slice2JavaPlugin 4 0 2014-05-17 15:16:00.707
+!MESSAGE Cannot locate slice2java translator: please fix Ice install location
+!SUBENTRY 1 com.zeroc.Slice2JavaPlugin 4 0 2014-05-17 15:16:00.707
+!MESSAGE Cannot locate slice2java translator: please fix Ice install location
+
+!ENTRY org.eclipse.core.resources 4 75 2014-05-17 15:16:01.037
+!MESSAGE Errors occurred during the build.
+!SUBENTRY 1 com.zeroc.Slice2JavaPlugin 4 75 2014-05-17 15:16:01.037
+!MESSAGE Errors running builder 'Slice2Java Builder' on project 'ice2-stud-2014'.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Cannot locate slice2java translator: please fix Ice install location
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.build(Slice2JavaBuilder.java:350)
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.incrementalBuild(Slice2JavaBuilder.java:917)
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.build(Slice2JavaBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:733)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 2 com.zeroc.Slice2JavaPlugin 4 0 2014-05-17 15:16:01.038
+!MESSAGE Cannot locate slice2java translator: please fix Ice install location
+!SUBENTRY 1 com.zeroc.Slice2JavaPlugin 4 0 2014-05-17 15:16:01.038
+!MESSAGE Cannot locate slice2java translator: please fix Ice install location
+!SESSION 2014-05-17 15:27:14.047 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:29:56.686
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-05-17 15:29:56.686
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-05-17 15:29:56.686
+!MESSAGE "Slice2Java Eclipse Plugin" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:29:56.691
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-05-17 15:29:56.691
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-05-17 15:29:56.691
+!MESSAGE "Slice2Java Eclipse Plugin" will be ignored because a newer version is already installed. 
+!SESSION 2014-05-17 15:31:22.673 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:32:00.068
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-05-17 15:32:00.068
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.068
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.068
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:32:00.068
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.068
+!MESSAGE Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.jar 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.068
+!MESSAGE Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.jar 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:32:00.068
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.068
+!MESSAGE From: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.068
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.4.2.201110190043]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:32:00.069
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.069
+!MESSAGE From: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.069
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.5.1.20131004]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:32:00.074
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-05-17 15:32:00.074
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.074
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.074
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:32:00.074
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.074
+!MESSAGE Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.jar 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.074
+!MESSAGE Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.jar 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:32:00.074
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.074
+!MESSAGE From: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.074
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.4.2.201110190043]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:32:00.074
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.074
+!MESSAGE From: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.074
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.5.1.20131004]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:32:00.080
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-05-17 15:32:00.081
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.081
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.081
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:32:00.081
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.081
+!MESSAGE Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.jar 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.081
+!MESSAGE Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.jar 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:32:00.081
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.081
+!MESSAGE From: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.081
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.4.2.201110190043]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:32:00.081
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.081
+!MESSAGE From: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.081
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.5.1.20131004]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:32:00.081
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-05-17 15:32:00.081
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.081
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.082
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:32:00.082
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.082
+!MESSAGE Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.jar 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.082
+!MESSAGE Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.jar 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:32:00.082
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.082
+!MESSAGE From: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.082
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.4.2.201110190043]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:32:00.082
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.082
+!MESSAGE From: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:32:00.082
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.5.1.20131004]
+!SESSION 2014-05-17 15:42:53.914 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:44:29.477
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-05-17 15:44:29.477
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.477
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.477
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:44:29.477
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.477
+!MESSAGE Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.jar 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.477
+!MESSAGE Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.jar 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:44:29.477
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.477
+!MESSAGE From: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.477
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.4.2.201110190043]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:44:29.477
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.478
+!MESSAGE From: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.478
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.5.1.20131004]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:44:29.483
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-05-17 15:44:29.483
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.483
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.483
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:44:29.483
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.483
+!MESSAGE Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.jar 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.483
+!MESSAGE Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.jar 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:44:29.483
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.483
+!MESSAGE From: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.483
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.4.2.201110190043]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:44:29.483
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.483
+!MESSAGE From: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.483
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.5.1.20131004]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:44:29.490
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-05-17 15:44:29.490
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.490
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.490
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:44:29.490
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.490
+!MESSAGE Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.jar 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.490
+!MESSAGE Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.jar 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:44:29.490
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.490
+!MESSAGE From: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.490
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.4.2.201110190043]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:44:29.490
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.490
+!MESSAGE From: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.490
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.5.1.20131004]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-05-17 15:44:29.491
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2014-05-17 15:44:29.491
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.491
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.491
+!MESSAGE Software being installed: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:44:29.491
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.491
+!MESSAGE Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.jar 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.491
+!MESSAGE Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.jar 3.5.1.20131004)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:44:29.491
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.491
+!MESSAGE From: Slice2Java Eclipse Plugin 3.4.2.201110190043 (com.zeroc.Slice2Java.feature.group 3.4.2.201110190043)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.491
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.4.2.201110190043]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2014-05-17 15:44:29.491
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.491
+!MESSAGE From: Slice2Java Eclipse Plugin 3.5.1.20131004 (com.zeroc.Slice2Java.feature.group 3.5.1.20131004)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2014-05-17 15:44:29.491
+!MESSAGE To: com.zeroc.Slice2Java.feature.jar [3.5.1.20131004]
+!SESSION 2014-05-17 15:44:45.458 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.core.resources 4 2 2014-05-17 15:48:13.515
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 1
+org.eclipse.core.runtime.CoreException: java.lang.RuntimeException: <?xml version="1.0" encoding="UTF-8"?>
+<generated>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/Bank.ice">
+    <file name="generated/Bank/_AccountOperations.java"/>
+    <file name="generated/Bank/_AccountOperationsNC.java"/>
+    <file name="generated/Bank/_PremiumAccountOperations.java"/>
+    <file name="generated/Bank/_PremiumAccountOperationsNC.java"/>
+    <file name="generated/Bank/_BankManagerOperations.java"/>
+    <file name="generated/Bank/_BankManagerOperationsNC.java"/>
+    <file name="generated/Bank/IncorrectData.java"/>
+    <file name="generated/Bank/RequestRejected.java"/>
+    <file name="generated/Bank/IncorrectAccountNumber.java"/>
+    <file name="generated/Bank/IncorrectAmount.java"/>
+    <file name="generated/Bank/NoSuchAccount.java"/>
+    <file name="generated/Bank/currency.java"/>
+    <file name="generated/Bank/accountType.java"/>
+    <file name="generated/Bank/Account.java"/>
+    <file name="generated/Bank/PremiumAccount.java"/>
+    <file name="generated/Bank/PersonalData.java"/>
+    <file name="generated/Bank/BankManager.java"/>
+    <file name="generated/Bank/currencyHolder.java"/>
+    <file name="generated/Bank/accountTypeHolder.java"/>
+    <file name="generated/Bank/AccountHolder.java"/>
+    <file name="generated/Bank/AccountPrxHolder.java"/>
+    <file name="generated/Bank/PremiumAccountHolder.java"/>
+    <file name="generated/Bank/PremiumAccountPrxHolder.java"/>
+    <file name="generated/Bank/PersonalDataHolder.java"/>
+    <file name="generated/Bank/BankManagerHolder.java"/>
+    <file name="generated/Bank/BankManagerPrxHolder.java"/>
+    <file name="generated/Bank/AccountPrxHelper.java"/>
+    <file name="generated/Bank/PremiumAccountPrxHelper.java"/>
+    <file name="generated/Bank/BankManagerPrxHelper.java"/>
+    <file name="generated/Bank/AccountPrx.java"/>
+    <file name="generated/Bank/PremiumAccountPrx.java"/>
+    <file name="generated/Bank/BankManagerPrx.java"/>
+    <file name="generated/Bank/_AccountDel.java"/>
+    <file name="generated/Bank/_PremiumAccountDel.java"/>
+    <file name="generated/Bank/_BankManagerDel.java"/>
+    <file name="generated/Bank/_AccountDelM.java"/>
+    <file name="generated/Bank/_PremiumAccountDelM.java"/>
+    <file name="generated/Bank/_BankManagerDelM.java"/>
+    <file name="generated/Bank/_AccountDelD.java"/>
+    <file name="generated/Bank/_PremiumAccountDelD.java"/>
+    <file name="generated/Bank/_BankManagerDelD.java"/>
+    <file name="generated/Bank/_AccountDisp.java"/>
+    <file name="generated/Bank/_PremiumAccountDisp.java"/>
+    <file name="generated/Bank/_BankManagerDisp.java"/>
+    <file name="generated/Bank/Callback_Account_getBalance.java"/>
+    <file name="generated/Bank/Callback_Account_getAccountNumber.java"/>
+    <file name="generated/Bank/Callback_Account_transfer.java"/>
+    <file name="generated/Bank/Callback_PremiumAccount_calculateLoan.java"/>
+    <file name="generated/Bank/Callback_BankManager_createAccount.java"/>
+    <file name="generated/Bank/Callback_BankManager_removeAccount.java"/>
+    <output></output>
+  </source>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/CertSigner.ice">
+    <output>/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/CertSigner.ice:5: error: Can't open include file &quot;BuiltinSequences.ice&quot;
+    #include &lt;BuiltinSequences.ice&gt;
+1 error in preprocessor.
+</output>
+  </source>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/FinancialNews.ice">
+    <file name="generated/FinancialNews/_NewsReceiverOperations.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverOperationsNC.java"/>
+    <file name="generated/FinancialNews/_NewsServerOperations.java"/>
+    <file name="generated/FinancialNews/_NewsServerOperationsNC.java"/>
+    <file name="generated/FinancialNews/Currency.java"/>
+    <file name="generated/FinancialNews/NewsReceiver.java"/>
+    <file name="generated/FinancialNews/NewsServer.java"/>
+    <file name="generated/FinancialNews/CurrencyHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrxHolder.java"/>
+    <file name="generated/FinancialNews/NewsServerHolder.java"/>
+    <file name="generated/FinancialNews/NewsServerPrxHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrxHelper.java"/>
+    <file name="generated/FinancialNews/NewsServerPrxHelper.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrx.java"/>
+    <file name="generated/FinancialNews/NewsServerPrx.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDel.java"/>
+    <file name="generated/FinancialNews/_NewsServerDel.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDelM.java"/>
+    <file name="generated/FinancialNews/_NewsServerDelM.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDelD.java"/>
+    <file name="generated/FinancialNews/_NewsServerDelD.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDisp.java"/>
+    <file name="generated/FinancialNews/_NewsServerDisp.java"/>
+    <file name="generated/FinancialNews/Callback_NewsReceiver_exchangeRate.java"/>
+    <file name="generated/FinancialNews/Callback_NewsReceiver_interestRate.java"/>
+    <file name="generated/FinancialNews/Callback_NewsServer_registerForNews.java"/>
+    <output></output>
+  </source>
+</generated>
+
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.runSliceCompiler(Slice2JavaBuilder.java:473)
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.build(Slice2JavaBuilder.java:402)
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.incrementalBuild(Slice2JavaBuilder.java:917)
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.build(Slice2JavaBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:733)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 com.zeroc.Slice2JavaPlugin 4 0 2014-05-17 15:48:13.516
+!MESSAGE java.lang.RuntimeException: <?xml version="1.0" encoding="UTF-8"?>
+<generated>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/Bank.ice">
+    <file name="generated/Bank/_AccountOperations.java"/>
+    <file name="generated/Bank/_AccountOperationsNC.java"/>
+    <file name="generated/Bank/_PremiumAccountOperations.java"/>
+    <file name="generated/Bank/_PremiumAccountOperationsNC.java"/>
+    <file name="generated/Bank/_BankManagerOperations.java"/>
+    <file name="generated/Bank/_BankManagerOperationsNC.java"/>
+    <file name="generated/Bank/IncorrectData.java"/>
+    <file name="generated/Bank/RequestRejected.java"/>
+    <file name="generated/Bank/IncorrectAccountNumber.java"/>
+    <file name="generated/Bank/IncorrectAmount.java"/>
+    <file name="generated/Bank/NoSuchAccount.java"/>
+    <file name="generated/Bank/currency.java"/>
+    <file name="generated/Bank/accountType.java"/>
+    <file name="generated/Bank/Account.java"/>
+    <file name="generated/Bank/PremiumAccount.java"/>
+    <file name="generated/Bank/PersonalData.java"/>
+    <file name="generated/Bank/BankManager.java"/>
+    <file name="generated/Bank/currencyHolder.java"/>
+    <file name="generated/Bank/accountTypeHolder.java"/>
+    <file name="generated/Bank/AccountHolder.java"/>
+    <file name="generated/Bank/AccountPrxHolder.java"/>
+    <file name="generated/Bank/PremiumAccountHolder.java"/>
+    <file name="generated/Bank/PremiumAccountPrxHolder.java"/>
+    <file name="generated/Bank/PersonalDataHolder.java"/>
+    <file name="generated/Bank/BankManagerHolder.java"/>
+    <file name="generated/Bank/BankManagerPrxHolder.java"/>
+    <file name="generated/Bank/AccountPrxHelper.java"/>
+    <file name="generated/Bank/PremiumAccountPrxHelper.java"/>
+    <file name="generated/Bank/BankManagerPrxHelper.java"/>
+    <file name="generated/Bank/AccountPrx.java"/>
+    <file name="generated/Bank/PremiumAccountPrx.java"/>
+    <file name="generated/Bank/BankManagerPrx.java"/>
+    <file name="generated/Bank/_AccountDel.java"/>
+    <file name="generated/Bank/_PremiumAccountDel.java"/>
+    <file name="generated/Bank/_BankManagerDel.java"/>
+    <file name="generated/Bank/_AccountDelM.java"/>
+    <file name="generated/Bank/_PremiumAccountDelM.java"/>
+    <file name="generated/Bank/_BankManagerDelM.java"/>
+    <file name="generated/Bank/_AccountDelD.java"/>
+    <file name="generated/Bank/_PremiumAccountDelD.java"/>
+    <file name="generated/Bank/_BankManagerDelD.java"/>
+    <file name="generated/Bank/_AccountDisp.java"/>
+    <file name="generated/Bank/_PremiumAccountDisp.java"/>
+    <file name="generated/Bank/_BankManagerDisp.java"/>
+    <file name="generated/Bank/Callback_Account_getBalance.java"/>
+    <file name="generated/Bank/Callback_Account_getAccountNumber.java"/>
+    <file name="generated/Bank/Callback_Account_transfer.java"/>
+    <file name="generated/Bank/Callback_PremiumAccount_calculateLoan.java"/>
+    <file name="generated/Bank/Callback_BankManager_createAccount.java"/>
+    <file name="generated/Bank/Callback_BankManager_removeAccount.java"/>
+    <output></output>
+  </source>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/CertSigner.ice">
+    <output>/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/CertSigner.ice:5: error: Can't open include file &quot;BuiltinSequences.ice&quot;
+    #include &lt;BuiltinSequences.ice&gt;
+1 error in preprocessor.
+</output>
+  </source>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/FinancialNews.ice">
+    <file name="generated/FinancialNews/_NewsReceiverOperations.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverOperationsNC.java"/>
+    <file name="generated/FinancialNews/_NewsServerOperations.java"/>
+    <file name="generated/FinancialNews/_NewsServerOperationsNC.java"/>
+    <file name="generated/FinancialNews/Currency.java"/>
+    <file name="generated/FinancialNews/NewsReceiver.java"/>
+    <file name="generated/FinancialNews/NewsServer.java"/>
+    <file name="generated/FinancialNews/CurrencyHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrxHolder.java"/>
+    <file name="generated/FinancialNews/NewsServerHolder.java"/>
+    <file name="generated/FinancialNews/NewsServerPrxHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrxHelper.java"/>
+    <file name="generated/FinancialNews/NewsServerPrxHelper.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrx.java"/>
+    <file name="generated/FinancialNews/NewsServerPrx.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDel.java"/>
+    <file name="generated/FinancialNews/_NewsServerDel.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDelM.java"/>
+    <file name="generated/FinancialNews/_NewsServerDelM.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDelD.java"/>
+    <file name="generated/FinancialNews/_NewsServerDelD.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDisp.java"/>
+    <file name="generated/FinancialNews/_NewsServerDisp.java"/>
+    <file name="generated/FinancialNews/Callback_NewsReceiver_exchangeRate.java"/>
+    <file name="generated/FinancialNews/Callback_NewsReceiver_interestRate.java"/>
+    <file name="generated/FinancialNews/Callback_NewsServer_registerForNews.java"/>
+    <output></output>
+  </source>
+</generated>
+
+!SUBENTRY 1 com.zeroc.Slice2JavaPlugin 4 0 2014-05-17 15:48:13.517
+!MESSAGE java.lang.RuntimeException: <?xml version="1.0" encoding="UTF-8"?>
+<generated>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/Bank.ice">
+    <file name="generated/Bank/_AccountOperations.java"/>
+    <file name="generated/Bank/_AccountOperationsNC.java"/>
+    <file name="generated/Bank/_PremiumAccountOperations.java"/>
+    <file name="generated/Bank/_PremiumAccountOperationsNC.java"/>
+    <file name="generated/Bank/_BankManagerOperations.java"/>
+    <file name="generated/Bank/_BankManagerOperationsNC.java"/>
+    <file name="generated/Bank/IncorrectData.java"/>
+    <file name="generated/Bank/RequestRejected.java"/>
+    <file name="generated/Bank/IncorrectAccountNumber.java"/>
+    <file name="generated/Bank/IncorrectAmount.java"/>
+    <file name="generated/Bank/NoSuchAccount.java"/>
+    <file name="generated/Bank/currency.java"/>
+    <file name="generated/Bank/accountType.java"/>
+    <file name="generated/Bank/Account.java"/>
+    <file name="generated/Bank/PremiumAccount.java"/>
+    <file name="generated/Bank/PersonalData.java"/>
+    <file name="generated/Bank/BankManager.java"/>
+    <file name="generated/Bank/currencyHolder.java"/>
+    <file name="generated/Bank/accountTypeHolder.java"/>
+    <file name="generated/Bank/AccountHolder.java"/>
+    <file name="generated/Bank/AccountPrxHolder.java"/>
+    <file name="generated/Bank/PremiumAccountHolder.java"/>
+    <file name="generated/Bank/PremiumAccountPrxHolder.java"/>
+    <file name="generated/Bank/PersonalDataHolder.java"/>
+    <file name="generated/Bank/BankManagerHolder.java"/>
+    <file name="generated/Bank/BankManagerPrxHolder.java"/>
+    <file name="generated/Bank/AccountPrxHelper.java"/>
+    <file name="generated/Bank/PremiumAccountPrxHelper.java"/>
+    <file name="generated/Bank/BankManagerPrxHelper.java"/>
+    <file name="generated/Bank/AccountPrx.java"/>
+    <file name="generated/Bank/PremiumAccountPrx.java"/>
+    <file name="generated/Bank/BankManagerPrx.java"/>
+    <file name="generated/Bank/_AccountDel.java"/>
+    <file name="generated/Bank/_PremiumAccountDel.java"/>
+    <file name="generated/Bank/_BankManagerDel.java"/>
+    <file name="generated/Bank/_AccountDelM.java"/>
+    <file name="generated/Bank/_PremiumAccountDelM.java"/>
+    <file name="generated/Bank/_BankManagerDelM.java"/>
+    <file name="generated/Bank/_AccountDelD.java"/>
+    <file name="generated/Bank/_PremiumAccountDelD.java"/>
+    <file name="generated/Bank/_BankManagerDelD.java"/>
+    <file name="generated/Bank/_AccountDisp.java"/>
+    <file name="generated/Bank/_PremiumAccountDisp.java"/>
+    <file name="generated/Bank/_BankManagerDisp.java"/>
+    <file name="generated/Bank/Callback_Account_getBalance.java"/>
+    <file name="generated/Bank/Callback_Account_getAccountNumber.java"/>
+    <file name="generated/Bank/Callback_Account_transfer.java"/>
+    <file name="generated/Bank/Callback_PremiumAccount_calculateLoan.java"/>
+    <file name="generated/Bank/Callback_BankManager_createAccount.java"/>
+    <file name="generated/Bank/Callback_BankManager_removeAccount.java"/>
+    <output></output>
+  </source>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/CertSigner.ice">
+    <output>/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/CertSigner.ice:5: error: Can't open include file &quot;BuiltinSequences.ice&quot;
+    #include &lt;BuiltinSequences.ice&gt;
+1 error in preprocessor.
+</output>
+  </source>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/FinancialNews.ice">
+    <file name="generated/FinancialNews/_NewsReceiverOperations.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverOperationsNC.java"/>
+    <file name="generated/FinancialNews/_NewsServerOperations.java"/>
+    <file name="generated/FinancialNews/_NewsServerOperationsNC.java"/>
+    <file name="generated/FinancialNews/Currency.java"/>
+    <file name="generated/FinancialNews/NewsReceiver.java"/>
+    <file name="generated/FinancialNews/NewsServer.java"/>
+    <file name="generated/FinancialNews/CurrencyHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrxHolder.java"/>
+    <file name="generated/FinancialNews/NewsServerHolder.java"/>
+    <file name="generated/FinancialNews/NewsServerPrxHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrxHelper.java"/>
+    <file name="generated/FinancialNews/NewsServerPrxHelper.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrx.java"/>
+    <file name="generated/FinancialNews/NewsServerPrx.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDel.java"/>
+    <file name="generated/FinancialNews/_NewsServerDel.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDelM.java"/>
+    <file name="generated/FinancialNews/_NewsServerDelM.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDelD.java"/>
+    <file name="generated/FinancialNews/_NewsServerDelD.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDisp.java"/>
+    <file name="generated/FinancialNews/_NewsServerDisp.java"/>
+    <file name="generated/FinancialNews/Callback_NewsReceiver_exchangeRate.java"/>
+    <file name="generated/FinancialNews/Callback_NewsReceiver_interestRate.java"/>
+    <file name="generated/FinancialNews/Callback_NewsServer_registerForNews.java"/>
+    <output></output>
+  </source>
+</generated>
+
+
+!ENTRY org.eclipse.core.resources 4 75 2014-05-17 15:48:13.562
+!MESSAGE Errors occurred during the build.
+!SUBENTRY 1 com.zeroc.Slice2JavaPlugin 4 75 2014-05-17 15:48:13.562
+!MESSAGE Errors running builder 'Slice2Java Builder' on project 'Server'.
+!STACK 1
+org.eclipse.core.runtime.CoreException: java.lang.RuntimeException: <?xml version="1.0" encoding="UTF-8"?>
+<generated>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/Bank.ice">
+    <file name="generated/Bank/_AccountOperations.java"/>
+    <file name="generated/Bank/_AccountOperationsNC.java"/>
+    <file name="generated/Bank/_PremiumAccountOperations.java"/>
+    <file name="generated/Bank/_PremiumAccountOperationsNC.java"/>
+    <file name="generated/Bank/_BankManagerOperations.java"/>
+    <file name="generated/Bank/_BankManagerOperationsNC.java"/>
+    <file name="generated/Bank/IncorrectData.java"/>
+    <file name="generated/Bank/RequestRejected.java"/>
+    <file name="generated/Bank/IncorrectAccountNumber.java"/>
+    <file name="generated/Bank/IncorrectAmount.java"/>
+    <file name="generated/Bank/NoSuchAccount.java"/>
+    <file name="generated/Bank/currency.java"/>
+    <file name="generated/Bank/accountType.java"/>
+    <file name="generated/Bank/Account.java"/>
+    <file name="generated/Bank/PremiumAccount.java"/>
+    <file name="generated/Bank/PersonalData.java"/>
+    <file name="generated/Bank/BankManager.java"/>
+    <file name="generated/Bank/currencyHolder.java"/>
+    <file name="generated/Bank/accountTypeHolder.java"/>
+    <file name="generated/Bank/AccountHolder.java"/>
+    <file name="generated/Bank/AccountPrxHolder.java"/>
+    <file name="generated/Bank/PremiumAccountHolder.java"/>
+    <file name="generated/Bank/PremiumAccountPrxHolder.java"/>
+    <file name="generated/Bank/PersonalDataHolder.java"/>
+    <file name="generated/Bank/BankManagerHolder.java"/>
+    <file name="generated/Bank/BankManagerPrxHolder.java"/>
+    <file name="generated/Bank/AccountPrxHelper.java"/>
+    <file name="generated/Bank/PremiumAccountPrxHelper.java"/>
+    <file name="generated/Bank/BankManagerPrxHelper.java"/>
+    <file name="generated/Bank/AccountPrx.java"/>
+    <file name="generated/Bank/PremiumAccountPrx.java"/>
+    <file name="generated/Bank/BankManagerPrx.java"/>
+    <file name="generated/Bank/_AccountDel.java"/>
+    <file name="generated/Bank/_PremiumAccountDel.java"/>
+    <file name="generated/Bank/_BankManagerDel.java"/>
+    <file name="generated/Bank/_AccountDelM.java"/>
+    <file name="generated/Bank/_PremiumAccountDelM.java"/>
+    <file name="generated/Bank/_BankManagerDelM.java"/>
+    <file name="generated/Bank/_AccountDelD.java"/>
+    <file name="generated/Bank/_PremiumAccountDelD.java"/>
+    <file name="generated/Bank/_BankManagerDelD.java"/>
+    <file name="generated/Bank/_AccountDisp.java"/>
+    <file name="generated/Bank/_PremiumAccountDisp.java"/>
+    <file name="generated/Bank/_BankManagerDisp.java"/>
+    <file name="generated/Bank/Callback_Account_getBalance.java"/>
+    <file name="generated/Bank/Callback_Account_getAccountNumber.java"/>
+    <file name="generated/Bank/Callback_Account_transfer.java"/>
+    <file name="generated/Bank/Callback_PremiumAccount_calculateLoan.java"/>
+    <file name="generated/Bank/Callback_BankManager_createAccount.java"/>
+    <file name="generated/Bank/Callback_BankManager_removeAccount.java"/>
+    <output></output>
+  </source>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/CertSigner.ice">
+    <output>/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/CertSigner.ice:5: error: Can't open include file &quot;BuiltinSequences.ice&quot;
+    #include &lt;BuiltinSequences.ice&gt;
+1 error in preprocessor.
+</output>
+  </source>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/FinancialNews.ice">
+    <file name="generated/FinancialNews/_NewsReceiverOperations.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverOperationsNC.java"/>
+    <file name="generated/FinancialNews/_NewsServerOperations.java"/>
+    <file name="generated/FinancialNews/_NewsServerOperationsNC.java"/>
+    <file name="generated/FinancialNews/Currency.java"/>
+    <file name="generated/FinancialNews/NewsReceiver.java"/>
+    <file name="generated/FinancialNews/NewsServer.java"/>
+    <file name="generated/FinancialNews/CurrencyHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrxHolder.java"/>
+    <file name="generated/FinancialNews/NewsServerHolder.java"/>
+    <file name="generated/FinancialNews/NewsServerPrxHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrxHelper.java"/>
+    <file name="generated/FinancialNews/NewsServerPrxHelper.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrx.java"/>
+    <file name="generated/FinancialNews/NewsServerPrx.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDel.java"/>
+    <file name="generated/FinancialNews/_NewsServerDel.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDelM.java"/>
+    <file name="generated/FinancialNews/_NewsServerDelM.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDelD.java"/>
+    <file name="generated/FinancialNews/_NewsServerDelD.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDisp.java"/>
+    <file name="generated/FinancialNews/_NewsServerDisp.java"/>
+    <file name="generated/FinancialNews/Callback_NewsReceiver_exchangeRate.java"/>
+    <file name="generated/FinancialNews/Callback_NewsReceiver_interestRate.java"/>
+    <file name="generated/FinancialNews/Callback_NewsServer_registerForNews.java"/>
+    <output></output>
+  </source>
+</generated>
+
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.runSliceCompiler(Slice2JavaBuilder.java:473)
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.build(Slice2JavaBuilder.java:402)
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.incrementalBuild(Slice2JavaBuilder.java:917)
+	at com.zeroc.slice2javaplugin.builder.Slice2JavaBuilder.build(Slice2JavaBuilder.java:99)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:733)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 2 com.zeroc.Slice2JavaPlugin 4 0 2014-05-17 15:48:13.563
+!MESSAGE java.lang.RuntimeException: <?xml version="1.0" encoding="UTF-8"?>
+<generated>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/Bank.ice">
+    <file name="generated/Bank/_AccountOperations.java"/>
+    <file name="generated/Bank/_AccountOperationsNC.java"/>
+    <file name="generated/Bank/_PremiumAccountOperations.java"/>
+    <file name="generated/Bank/_PremiumAccountOperationsNC.java"/>
+    <file name="generated/Bank/_BankManagerOperations.java"/>
+    <file name="generated/Bank/_BankManagerOperationsNC.java"/>
+    <file name="generated/Bank/IncorrectData.java"/>
+    <file name="generated/Bank/RequestRejected.java"/>
+    <file name="generated/Bank/IncorrectAccountNumber.java"/>
+    <file name="generated/Bank/IncorrectAmount.java"/>
+    <file name="generated/Bank/NoSuchAccount.java"/>
+    <file name="generated/Bank/currency.java"/>
+    <file name="generated/Bank/accountType.java"/>
+    <file name="generated/Bank/Account.java"/>
+    <file name="generated/Bank/PremiumAccount.java"/>
+    <file name="generated/Bank/PersonalData.java"/>
+    <file name="generated/Bank/BankManager.java"/>
+    <file name="generated/Bank/currencyHolder.java"/>
+    <file name="generated/Bank/accountTypeHolder.java"/>
+    <file name="generated/Bank/AccountHolder.java"/>
+    <file name="generated/Bank/AccountPrxHolder.java"/>
+    <file name="generated/Bank/PremiumAccountHolder.java"/>
+    <file name="generated/Bank/PremiumAccountPrxHolder.java"/>
+    <file name="generated/Bank/PersonalDataHolder.java"/>
+    <file name="generated/Bank/BankManagerHolder.java"/>
+    <file name="generated/Bank/BankManagerPrxHolder.java"/>
+    <file name="generated/Bank/AccountPrxHelper.java"/>
+    <file name="generated/Bank/PremiumAccountPrxHelper.java"/>
+    <file name="generated/Bank/BankManagerPrxHelper.java"/>
+    <file name="generated/Bank/AccountPrx.java"/>
+    <file name="generated/Bank/PremiumAccountPrx.java"/>
+    <file name="generated/Bank/BankManagerPrx.java"/>
+    <file name="generated/Bank/_AccountDel.java"/>
+    <file name="generated/Bank/_PremiumAccountDel.java"/>
+    <file name="generated/Bank/_BankManagerDel.java"/>
+    <file name="generated/Bank/_AccountDelM.java"/>
+    <file name="generated/Bank/_PremiumAccountDelM.java"/>
+    <file name="generated/Bank/_BankManagerDelM.java"/>
+    <file name="generated/Bank/_AccountDelD.java"/>
+    <file name="generated/Bank/_PremiumAccountDelD.java"/>
+    <file name="generated/Bank/_BankManagerDelD.java"/>
+    <file name="generated/Bank/_AccountDisp.java"/>
+    <file name="generated/Bank/_PremiumAccountDisp.java"/>
+    <file name="generated/Bank/_BankManagerDisp.java"/>
+    <file name="generated/Bank/Callback_Account_getBalance.java"/>
+    <file name="generated/Bank/Callback_Account_getAccountNumber.java"/>
+    <file name="generated/Bank/Callback_Account_transfer.java"/>
+    <file name="generated/Bank/Callback_PremiumAccount_calculateLoan.java"/>
+    <file name="generated/Bank/Callback_BankManager_createAccount.java"/>
+    <file name="generated/Bank/Callback_BankManager_removeAccount.java"/>
+    <output></output>
+  </source>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/CertSigner.ice">
+    <output>/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/CertSigner.ice:5: error: Can't open include file &quot;BuiltinSequences.ice&quot;
+    #include &lt;BuiltinSequences.ice&gt;
+1 error in preprocessor.
+</output>
+  </source>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/FinancialNews.ice">
+    <file name="generated/FinancialNews/_NewsReceiverOperations.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverOperationsNC.java"/>
+    <file name="generated/FinancialNews/_NewsServerOperations.java"/>
+    <file name="generated/FinancialNews/_NewsServerOperationsNC.java"/>
+    <file name="generated/FinancialNews/Currency.java"/>
+    <file name="generated/FinancialNews/NewsReceiver.java"/>
+    <file name="generated/FinancialNews/NewsServer.java"/>
+    <file name="generated/FinancialNews/CurrencyHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrxHolder.java"/>
+    <file name="generated/FinancialNews/NewsServerHolder.java"/>
+    <file name="generated/FinancialNews/NewsServerPrxHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrxHelper.java"/>
+    <file name="generated/FinancialNews/NewsServerPrxHelper.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrx.java"/>
+    <file name="generated/FinancialNews/NewsServerPrx.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDel.java"/>
+    <file name="generated/FinancialNews/_NewsServerDel.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDelM.java"/>
+    <file name="generated/FinancialNews/_NewsServerDelM.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDelD.java"/>
+    <file name="generated/FinancialNews/_NewsServerDelD.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDisp.java"/>
+    <file name="generated/FinancialNews/_NewsServerDisp.java"/>
+    <file name="generated/FinancialNews/Callback_NewsReceiver_exchangeRate.java"/>
+    <file name="generated/FinancialNews/Callback_NewsReceiver_interestRate.java"/>
+    <file name="generated/FinancialNews/Callback_NewsServer_registerForNews.java"/>
+    <output></output>
+  </source>
+</generated>
+
+!SUBENTRY 1 com.zeroc.Slice2JavaPlugin 4 0 2014-05-17 15:48:13.563
+!MESSAGE java.lang.RuntimeException: <?xml version="1.0" encoding="UTF-8"?>
+<generated>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/Bank.ice">
+    <file name="generated/Bank/_AccountOperations.java"/>
+    <file name="generated/Bank/_AccountOperationsNC.java"/>
+    <file name="generated/Bank/_PremiumAccountOperations.java"/>
+    <file name="generated/Bank/_PremiumAccountOperationsNC.java"/>
+    <file name="generated/Bank/_BankManagerOperations.java"/>
+    <file name="generated/Bank/_BankManagerOperationsNC.java"/>
+    <file name="generated/Bank/IncorrectData.java"/>
+    <file name="generated/Bank/RequestRejected.java"/>
+    <file name="generated/Bank/IncorrectAccountNumber.java"/>
+    <file name="generated/Bank/IncorrectAmount.java"/>
+    <file name="generated/Bank/NoSuchAccount.java"/>
+    <file name="generated/Bank/currency.java"/>
+    <file name="generated/Bank/accountType.java"/>
+    <file name="generated/Bank/Account.java"/>
+    <file name="generated/Bank/PremiumAccount.java"/>
+    <file name="generated/Bank/PersonalData.java"/>
+    <file name="generated/Bank/BankManager.java"/>
+    <file name="generated/Bank/currencyHolder.java"/>
+    <file name="generated/Bank/accountTypeHolder.java"/>
+    <file name="generated/Bank/AccountHolder.java"/>
+    <file name="generated/Bank/AccountPrxHolder.java"/>
+    <file name="generated/Bank/PremiumAccountHolder.java"/>
+    <file name="generated/Bank/PremiumAccountPrxHolder.java"/>
+    <file name="generated/Bank/PersonalDataHolder.java"/>
+    <file name="generated/Bank/BankManagerHolder.java"/>
+    <file name="generated/Bank/BankManagerPrxHolder.java"/>
+    <file name="generated/Bank/AccountPrxHelper.java"/>
+    <file name="generated/Bank/PremiumAccountPrxHelper.java"/>
+    <file name="generated/Bank/BankManagerPrxHelper.java"/>
+    <file name="generated/Bank/AccountPrx.java"/>
+    <file name="generated/Bank/PremiumAccountPrx.java"/>
+    <file name="generated/Bank/BankManagerPrx.java"/>
+    <file name="generated/Bank/_AccountDel.java"/>
+    <file name="generated/Bank/_PremiumAccountDel.java"/>
+    <file name="generated/Bank/_BankManagerDel.java"/>
+    <file name="generated/Bank/_AccountDelM.java"/>
+    <file name="generated/Bank/_PremiumAccountDelM.java"/>
+    <file name="generated/Bank/_BankManagerDelM.java"/>
+    <file name="generated/Bank/_AccountDelD.java"/>
+    <file name="generated/Bank/_PremiumAccountDelD.java"/>
+    <file name="generated/Bank/_BankManagerDelD.java"/>
+    <file name="generated/Bank/_AccountDisp.java"/>
+    <file name="generated/Bank/_PremiumAccountDisp.java"/>
+    <file name="generated/Bank/_BankManagerDisp.java"/>
+    <file name="generated/Bank/Callback_Account_getBalance.java"/>
+    <file name="generated/Bank/Callback_Account_getAccountNumber.java"/>
+    <file name="generated/Bank/Callback_Account_transfer.java"/>
+    <file name="generated/Bank/Callback_PremiumAccount_calculateLoan.java"/>
+    <file name="generated/Bank/Callback_BankManager_createAccount.java"/>
+    <file name="generated/Bank/Callback_BankManager_removeAccount.java"/>
+    <output></output>
+  </source>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/CertSigner.ice">
+    <output>/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/CertSigner.ice:5: error: Can't open include file &quot;BuiltinSequences.ice&quot;
+    #include &lt;BuiltinSequences.ice&gt;
+1 error in preprocessor.
+</output>
+  </source>
+  <source name="/home/tpalys/studia/sem6/rozprochy/lab5/Server/slice/FinancialNews.ice">
+    <file name="generated/FinancialNews/_NewsReceiverOperations.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverOperationsNC.java"/>
+    <file name="generated/FinancialNews/_NewsServerOperations.java"/>
+    <file name="generated/FinancialNews/_NewsServerOperationsNC.java"/>
+    <file name="generated/FinancialNews/Currency.java"/>
+    <file name="generated/FinancialNews/NewsReceiver.java"/>
+    <file name="generated/FinancialNews/NewsServer.java"/>
+    <file name="generated/FinancialNews/CurrencyHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrxHolder.java"/>
+    <file name="generated/FinancialNews/NewsServerHolder.java"/>
+    <file name="generated/FinancialNews/NewsServerPrxHolder.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrxHelper.java"/>
+    <file name="generated/FinancialNews/NewsServerPrxHelper.java"/>
+    <file name="generated/FinancialNews/NewsReceiverPrx.java"/>
+    <file name="generated/FinancialNews/NewsServerPrx.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDel.java"/>
+    <file name="generated/FinancialNews/_NewsServerDel.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDelM.java"/>
+    <file name="generated/FinancialNews/_NewsServerDelM.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDelD.java"/>
+    <file name="generated/FinancialNews/_NewsServerDelD.java"/>
+    <file name="generated/FinancialNews/_NewsReceiverDisp.java"/>
+    <file name="generated/FinancialNews/_NewsServerDisp.java"/>
+    <file name="generated/FinancialNews/Callback_NewsReceiver_exchangeRate.java"/>
+    <file name="generated/FinancialNews/Callback_NewsReceiver_interestRate.java"/>
+    <file name="generated/FinancialNews/Callback_NewsServer_registerForNews.java"/>
+    <output></output>
+  </source>
+</generated>
+
