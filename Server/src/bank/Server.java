@@ -13,11 +13,18 @@ public class Server {
 		try {
 			
 			ic = Ice.Util.initialize(args);
-			objectAdapter = ic.createObjectAdapter("Adapter");
+			objectAdapter = ic.createObjectAdapter("Bank");
 			
-			Ice.Object manager = new BankManagerI();
+			NewsReceiverI newsReceiver = new NewsReceiverI();
+			AccountEvictor silverAccountEvictor = new AccountEvictor(2);
+			BankManagerI bankManager = new BankManagerI(objectAdapter, silverAccountEvictor, newsReceiver);
+			silverAccountEvictor.setBankManager(bankManager);
+			Ice.Object manager = bankManager;
 			
 			objectAdapter.add(manager, new Identity("1", "manager"));
+			objectAdapter.addServantLocator(silverAccountEvictor, "silver");
+			
+			// TODO set callback news receiver
 			
 			objectAdapter.activate();
 			
