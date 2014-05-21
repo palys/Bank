@@ -5,10 +5,18 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/tpalys/studia/sem6/rozprochy/BankClientJava"/>
 			<item value="/home/tpalys/studia/sem6/rozprochy/eclipse/ice2-stud-2014"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
 		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item value="579" key="DIALOG_WIDTH"/>
+		<item value="189" key="DIALOG_Y_ORIGIN"/>
+		<item value="394" key="DIALOG_X_ORIGIN"/>
+		<item value="421" key="DIALOG_HEIGHT"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
 	</section>
 </section>

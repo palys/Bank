@@ -1,22 +1,15 @@
 package bank;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.OutputStreamWriter;
 import java.nio.file.Files;
-import java.nio.file.LinkOption;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 import Bank.IncorrectAccountNumber;
 import Bank.IncorrectAmount;
@@ -95,6 +88,9 @@ public class BankManagerI extends _BankManagerDisp {
 		
 		silverAccountIDs.addAll(readAllFileNames(silverPath));
 		premiumAccountsIDs.addAll(readAllFileNames(premiumPath));
+		
+		System.out.println("silvers on start: " + silverAccountIDs);
+		System.out.println("premium on start: " + premiumAccountsIDs);
 		
 	}
 	
@@ -213,7 +209,9 @@ public class BankManagerI extends _BankManagerDisp {
 	int getBalance(String accountID) throws NumberFormatException, IOException {
 		String path = getPath(accountID);
 		BufferedReader reader = new BufferedReader(new FileReader(new File(path)));
-		int balance = Integer.parseInt(reader.readLine());
+		String line = reader.readLine();
+		System.out.println("Line is " + line);
+		int balance = Integer.parseInt(line);
 		reader.close();
 		return balance;
 	}
@@ -233,7 +231,8 @@ public class BankManagerI extends _BankManagerDisp {
 			throw new IncorrectAccountNumber();
 		}
 		
-		if (fromBalance > amount) {
+		if (fromBalance < amount) {
+			System.out.println("from " + fromBalance + " - " + amount);
 			throw new IncorrectAmount();
 		}
 		
@@ -255,6 +254,9 @@ public class BankManagerI extends _BankManagerDisp {
 	}
 	
 	accountType getType(String accountID) throws NoSuchAccount {
+		
+		
+		
 		if (premiumAccountsIDs.contains(accountID)) {
 			return accountType.PREMIUM;
 		} else if (silverAccountIDs.contains(accountID)) {
@@ -278,10 +280,13 @@ public class BankManagerI extends _BankManagerDisp {
 		
 		if (type == accountType.SILVER) {
 			path = silverPath + "/" + id;
+			silverAccountIDs.add(id);
 		} else {
 			path = premiumPath + "/" + id;
 			Ice.Object servant = new PremiumAccountI(startingAmount, id, this);
-			objectAdapter.add(servant, new Identity("premium", id));
+			objectAdapter.add(servant, new Identity(id, "premium"));
+			premiumAccountsIDs.add(id);
+			System.out.println("premium/" + id + " added to asm");
 		}
 		
 		File accountFile = new File(path);
