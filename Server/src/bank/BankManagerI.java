@@ -64,6 +64,22 @@ public class BankManagerI extends _BankManagerDisp {
 		} else {
 			readDataOnInit();
 		}
+		
+		instantiateServantsOnStartup();
+	}
+	
+	private void instantiateServantsOnStartup() {
+		for (String id : premiumAccountsIDs) {
+			try {
+				objectAdapter.add(new PremiumAccountI(getBalance(id), id, this), new Identity(id, "premium"));
+			} catch (NumberFormatException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
 	}
 	
 	public static void main(String[] args) {
@@ -157,6 +173,7 @@ public class BankManagerI extends _BankManagerDisp {
 		if (!Files.exists(premium)) {
 			Files.createDirectory(premium);
 		}
+
 	}
 	
 	private String generateAccountID() {

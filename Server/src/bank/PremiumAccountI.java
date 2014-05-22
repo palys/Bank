@@ -5,6 +5,8 @@ import Bank.IncorrectAmount;
 import Bank.IncorrectData;
 import Bank._PremiumAccountDisp;
 import Bank.currency;
+import FinancialNews.Currency;
+import FinancialNews.CurrencyHolder;
 import Ice.Current;
 import Ice.FloatHolder;
 import Ice.IntHolder;
@@ -22,6 +24,10 @@ public class PremiumAccountI extends _PremiumAccountDisp {
 		this.accountNumber = accountNumber;
 		this.bankManager = bankManager;
 	}
+	
+	private Currency convert(currency curr) {
+		return Currency.valueOf(curr.value());
+	}
 
 	@Override
 	public void calculateLoan(int amount, currency curr, int period,
@@ -30,7 +36,8 @@ public class PremiumAccountI extends _PremiumAccountDisp {
 		
 		NewsReceiverI loanData = this.bankManager.getNewsReceiver();
 		
-		// TODO
+		interestRate.value = loanData.getInterestRate(convert(curr));
+		totalCost.value = (int) (loanData.getExchangeRate(Currency.PLN, convert(curr)) * period * amount + amount);
 
 	}
 	

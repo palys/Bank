@@ -16,7 +16,7 @@ public class Server {
 			objectAdapter = ic.createObjectAdapter("Bank");
 			
 			NewsReceiverI newsReceiver = new NewsReceiverI();
-			AccountEvictor silverAccountEvictor = new AccountEvictor(2);
+			AccountEvictor2 silverAccountEvictor = new AccountEvictor2(2);
 			BankManagerI bankManager = new BankManagerI(objectAdapter, silverAccountEvictor, newsReceiver);
 			silverAccountEvictor.setBankManager(bankManager);
 			Ice.Object manager = bankManager;

@@ -9,7 +9,7 @@ import Ice.Current;
 
 public class NewsReceiverI extends _NewsReceiverDisp {
 	
-	private static class Pair<U, V> {
+	static class Pair<U, V> {
 		public final U u;
 		public final V v;
 		
