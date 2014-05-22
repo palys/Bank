@@ -50,7 +50,12 @@ public class AccountEvictor2 implements ServantLocator {
 		} else {
 			try {
 				acc = new AccountI(manager.getBalance(id), id, manager);
-				
+				if (servants.size() < maxSize) {
+					servants.add(acc);
+				} else {
+					servants.remove(servants.size() - 1);
+					servants.add(acc);
+				}
 				return acc;
 			} catch (Exception e) {
 				return null;
